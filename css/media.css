@@ -1,0 +1,212 @@
+
+
+@media screen and (max-width: 550px) {
+    body {
+        
+        background-color: lightgreen;
+    }
+    
+}
+
+
+@media screen and (max-width: 1150px){
+    .table-container5{
+        flex-direction:column;
+        align-content: center; 
+       
+    }
+}
+
+       
+    @media screen and (max-width:768px){
+      
+        .container{
+            width: 100%;
+            margin: 0% 0%;
+          padding: 0% 0%;
+    
+}  
+        .aside-1{
+            width: 45%;
+            margin-right:  5%;
+            padding-top: 50px;
+        }
+        .aside-2{
+            width:45%;
+             margin-left:  5%;
+        }
+        #area-item{
+            display:block;
+            height: 740px;
+            padding:0% 5%;
+            margin-left: 0px;
+	        width:90%;
+            float: left;
+            
+        }
+        #area-1{
+             display:block;
+            width: 42.5%;
+            float: right;
+        }
+        #area-2{
+            display:block;
+            width: 42.5%;
+            float: right;
+        }
+        #area-3{
+            display:block;
+            width: 42.5%;
+            float: right;
+        }
+        #area-4{
+            display:block;
+            width: 42.5%;
+           float: right;
+           
+        }
+        
+        .img-container{
+            width: 50%;
+        }
+        .text-container1{
+            width: 50%;
+        }
+        .area-container4{
+        display: block;
+        flex-wrap: wrap;
+            
+        }
+        .container4 {
+            height: auto;
+        }
+        
+        .container6 .area_container6 p{
+            width: 460px;
+        }
+        .container6 .area_container6 .img_area6 img{
+            width:200px;
+            height: 60px;
+        }
+        .container6 .area_container6 .from_area input[type=text] {
+            width: 390px;
+            margin: 5px;
+            padding: 12px 5px;   
+        }
+        
+}
+ @media screen and (max-width:480px){
+    #area-item{
+            display:block;
+            height: 1480px;
+            padding:0% 5%;
+            margin-left: px;
+            float: inherit;
+            width: 90%;
+            
+        }
+        #area-1{
+             display:block;
+            width: 92%;
+            float: center;
+            margin-right: 15px;
+        }
+        #area-2{
+            display:block;
+            width: 92%;
+            float: left;
+        }
+        #area-3{
+            display:block;
+            width: 92%;
+            float: left;
+        }
+        #area-4{
+            display:block;
+            width: 92%;
+           float: left;
+           
+        }
+     
+     .container2{
+           display: block;
+         height: 1300px;
+        }
+        
+        .img-container{
+            width: 100%;
+        }
+        .text-container1{
+            width: 100%;
+        }
+     
+     .container{
+      margin: 0% 0%;
+          padding: 0% 5%;
+           float: none;
+          width: 90%;
+          
+    
+}  
+        .aside-1{
+            width: 100%;
+            margin-right:  0%;
+            float: none;
+            
+        }
+        .buttonbar ul{
+        float: left;
+            margin-left: 25%
+            
+}
+        .aside-2{
+            width:100%;
+            margin-left:  0%;
+            float: none;
+        }
+     .table-container5 .table-area{
+            width: 310px;
+            margin-left: 5px;
+            margin-right: 5px;
+     }
+     
+       .container6 .area_container6 p{
+            width: 420px;
+           
+     } 
+     .container6 .area_container6 .img_area6 img{
+            width:175px;
+            height: 50px;
+     }
+     .container6 .area_container6 .from_area input[type=text] {
+         
+         width: 340px;
+         margin: 5px;
+         padding: 12px 5px;   
+     }
+     
+}
+
+
+@media screen and (max-width: 426px){
+     
+     
+    .container6 .area_container6 p{
+        width: 320px;
+    }  
+
+    .container6 .area_container6 .img_area6 img{
+            width:150px;
+            height: 50px;
+            margin: 5px;
+    }
+     .container6 .area_container6 .from_area input[type=text] {
+        width: 305px;
+        margin-top: 30px;
+        padding: 12px 5px;   
+    }
+}
+
+
+
+
